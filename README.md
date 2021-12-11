@@ -1,1 +1,1 @@
-This is my prject code repo
+This is my project code repo
